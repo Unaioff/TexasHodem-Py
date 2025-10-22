@@ -23,3 +23,4 @@ Simply Poker es una versión simplificada del clásico Texas Hold'em. Ideal para
 
 ## 📸 Aspecto Visual
 
+![20251022-0812-51 5048390](https://github.com/user-attachments/assets/f08118de-23e7-4eac-bcf6-807358949795)
